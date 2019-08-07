@@ -238,6 +238,8 @@ Logistics transportation
 
 The transfer of forestry resources from the resource side to the terminal investor requires the support of logistics and transportation services. In the traditional mode, some intermediate transporters have bad behaviors such as stealing goods, but lack of effective monitoring means and opaque intermediate links, and high-quality transporters are also deeply affected by such vicious competition. Carbon licenses provide quality services to buyers and sellers by accessing quality transporters, and are screened by reverse evaluation of all traders in the ecosystem to remove vicious competitors. At the same time, all products obtained by investors can be traced to the source. With the intelligent coding of each tree, the relevant data (tree height, coordinates and other information of each tree) can be queried to realize safe visual consumption, avoid fraud and protect investor rights. .
 
+5.2.3 Open System
+Asia Forest Platform Block Chain Open System is a fully open system developed by the technical team after years of research and discussion. Any enterprise and developer can build their own unique service terminals through the open system. Apart from open API, Asia Forest Platform also opens resources sharing, member synchronization and database. Sharing and other core procedures.
 5.3 How to get it
 
 5.3.1 Trading in Transaction
