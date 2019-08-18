@@ -185,7 +185,7 @@ The carbon certificate will fully utilize the rich ecological and voucher rights
 
 5.1 Distribution plan
 
-The total number of CEC carbon certificates is 36867216 . According to the calculation of the system, it is expected to produce 730 days.
+The total number of CEC carbon certificates is 76633937 . According to the calculation of the system, it is expected to produce 731 days.
 The output of the room is 2 million pieces, and 500,000 pieces are used for promotion. The gift part is locked from the time of giving away.For 12 months, the gift part does not generate computing power and can be used for system consumption payment. The system does not make any private placement plan.
 
 Technical team
